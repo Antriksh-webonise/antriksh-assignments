@@ -1,0 +1,9 @@
+1.git help
+2.git config
+3.git add
+4.git commit
+5.git push
+6.git rebase
+7.git pull
+8.git merge
+9.git fetch
